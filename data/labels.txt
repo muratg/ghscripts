@@ -1,0 +1,9 @@
+cost: 0      ,  Will take no time. This is a tracking issue , ffeeee
+cost: XS     ,  Will take about half a day to complete      , ffdddd
+cost: S      ,  Will take up to 2 days to complete          , ffcccc
+cost: M      ,  Will take 3 - 5 days to complete            , ff9999
+cost: L      ,  Will take 6 - 10 days to complete           , ff5555
+cost: XL     ,  Will take more than 10 days to complete     , ff0000
+blocked      ,  Blocked                                     , b60205
+investigate  ,  Investigation item                          , e580c2
+up-for-grabs ,  We will consider contributions              , 5d9918
