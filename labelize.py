@@ -109,11 +109,11 @@ def usage():
     aspnet/iisintegration
 
   Sample labelfile:
-    cost: 0,Will take no time. This is a tracking issue,#ffeeee
-    cost: S,Will take up to 2 days to complete,#ffcccc
-    cost: M,Will take from 3 - 5 days to complete,#ff9999
-    cost: L,Will take from 6 - 10 days to complete,#ff5555
-    cost: XL,Will take more than 10 days to complete,#ff0000
+    cost: 0,Will take no time. This is a tracking issue,ffeeee
+    cost: S,Will take up to 2 days to complete,ffcccc
+    cost: M,Will take from 3 - 5 days to complete,ff9999
+    cost: L,Will take from 6 - 10 days to complete,ff5555
+    cost: XL,Will take more than 10 days to complete,ff0000
   """)
 
 ## entry point
