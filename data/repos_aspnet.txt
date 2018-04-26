@@ -1,3 +1,0 @@
-aspnet/kestrelhttpserver
-aspnet/iisintegration
-aspnet/signalr
